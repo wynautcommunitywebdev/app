@@ -1,2 +1,0 @@
-# app
-Team Rocket Finance
